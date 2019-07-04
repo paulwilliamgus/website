@@ -1,0 +1,76 @@
+/* * {
+  border: 1px solid red;
+} */
+body {
+  background-color: lightsteelblue;
+  color: black;
+  font-family: helvetic;
+  font-size: 20px;
+  margin: px px;
+  background-image: url(images/white-waves.png);
+  background-repeat: repeat;
+}
+header {
+  font-family: 'caveat', cursive;
+  font-size: 35px;
+  text-decoration: underline;
+  background-color: forestgreen;
+  margin: -40px 0;
+  padding-top: px;
+  padding-bottom: px;
+}
+a {
+  font-family: 'caveat', cursive;
+  color: black;
+  font-size: 30px;
+  padding: 20px;
+  margin: px;
+  line height: px;
+  background-color: ;
+
+}
+h2 {
+  text-align: right;
+  margin-right: ;
+  background-color: ;
+  margin-bottom: px
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+.pachena {
+  text-align: center;
+  font-size: 40px;
+  color: ;
+}
+.list {
+  text-align: left;
+  padding: 0 200px;
+  background-color: lightgrey;
+  margin: 0 px;
+}
+.banner {
+  height: 400px;
+  background-image: url(images/tent.jpg);
+  background-size: cover;
+  background-position: 0 450px;
+  margin-bottom: px;
+}
+.photo {
+  margin-right: 800px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.image {
+  margin-right: 70px;
+  margin-left: 800px;
+  margin-top: -375px;
+}
+.image-2 {
+  margin: 0 0 200px 400px;
+}
+.list-2{
+  margin-top:-300px
+
+}
