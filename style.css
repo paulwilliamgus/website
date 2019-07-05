@@ -7,19 +7,21 @@ body {
   font-family: helvetic;
   font-size: 20px;
   margin: px px;
-  background-image: url(images/white-waves.png);
+  background-image: url(images/vintage-concrete.png);
   background-repeat: repeat;
+
 }
 header {
   font-family: 'caveat', cursive;
   font-size: 35px;
   text-decoration: underline;
-  background-color: forestgreen;
+  background-color:;
   margin: -40px 0;
   padding-top: px;
   padding-bottom: px;
+  background-image: url(images/pool_table.png);
 }
-a {
+.a {
   font-family: 'caveat', cursive;
   color: black;
   font-size: 30px;
@@ -27,7 +29,9 @@ a {
   margin: px;
   line height: px;
   background-color: ;
-
+}
+a:active{
+  color: forestgreen;
 }
 h2 {
   text-align: right;
@@ -43,12 +47,16 @@ img {
   text-align: center;
   font-size: 40px;
   color: ;
+  margin-top: -70px;
+  margin-bottom: -0px;
 }
 .list {
   text-align: left;
   padding: 0 200px;
-  background-color: lightgrey;
+  background-color: ;
   margin: 0 px;
+  background-image: url(images/mochaGrunge.png);
+  color: white;
 }
 .banner {
   height: 400px;
@@ -60,17 +68,39 @@ img {
 .photo {
   margin-right: 800px;
   margin-left: 100px;
-  margin-top: 50px;
+  margin-top: 40px;
+  margin-bottom: -60px;
 }
 .image {
   margin-right: 70px;
   margin-left: 800px;
-  margin-top: -375px;
+  margin-top: -380px;
 }
 .image-2 {
-  margin: 0 0 200px 400px;
+  margin-left:400px ;
+  margin-top: -130px;
 }
 .list-2{
-  margin-top:-300px
+  margin-right:600px
+  background-image: url(images/mochaGrunge.png);
+  color: white;
 
+}
+.image-3 {
+  margin: -300px 0 0 365px;
+}
+section {
+
+}
+.float-image {
+  float: right;
+}
+footer {
+  font-size: 15px;
+}
+.t {
+  margin-left: 200px;
+}
+a {
+  
 }
