@@ -46,9 +46,9 @@ img {
 .pachena {
   text-align: center;
   font-size: 40px;
-  color: ;
+  /* color: ;
   margin-top: -70px;
-  margin-bottom: -0px;
+  margin-bottom: -0px; */
 }
 .list {
   text-align: left;
@@ -102,5 +102,5 @@ footer {
   margin-left: 200px;
 }
 a {
-  
+
 }
