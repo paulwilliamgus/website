@@ -1,0 +1,106 @@
+/* * {
+  border: 1px solid red;
+} */
+body {
+  background-color: lightsteelblue;
+  color: black;
+  font-family: helvetic;
+  font-size: 20px;
+  margin: px px;
+  background-image: url(images/vintage-concrete.png);
+  background-repeat: repeat;
+
+}
+header {
+  font-family: 'caveat', cursive;
+  font-size: 35px;
+  text-decoration: underline;
+  background-color:;
+  margin: -40px 0;
+  padding-top: px;
+  padding-bottom: px;
+  background-image: url(images/pool_table.png);
+}
+.a {
+  font-family: 'caveat', cursive;
+  color: black;
+  font-size: 30px;
+  padding: 20px;
+  margin: px;
+  line height: px;
+  background-color: ;
+}
+a:active{
+  color: forestgreen;
+}
+h2 {
+  text-align: right;
+  margin-right: ;
+  background-color: ;
+  margin-bottom: px
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+.pachena {
+  text-align: center;
+  font-size: 40px;
+  color: ;
+  margin-top: -70px;
+  margin-bottom: -0px;
+}
+.list {
+  text-align: left;
+  padding: 0 200px;
+  background-color: ;
+  margin: 0 px;
+  background-image: url(images/mochaGrunge.png);
+  color: white;
+}
+.banner {
+  height: 400px;
+  background-image: url(https://paulwilliamgus.github.io/website/images/tent.jpg);
+  background-size: cover;
+  background-position: 0 450px;
+  margin-bottom: px;
+}
+.photo {
+  margin-right: 800px;
+  margin-left: 100px;
+  margin-top: 40px;
+  margin-bottom: -60px;
+}
+.image {
+  margin-right: 70px;
+  margin-left: 800px;
+  margin-top: -380px;
+}
+.image-2 {
+  margin-left:400px ;
+  margin-top: -130px;
+}
+.list-2{
+  margin-right:600px
+  background-image: url(images/mochaGrunge.png);
+  color: white;
+
+}
+.image-3 {
+  margin: -300px 0 0 365px;
+}
+section {
+
+}
+.float-image {
+  float: right;
+}
+footer {
+  font-size: 15px;
+}
+.t {
+  margin-left: 200px;
+}
+a {
+  
+}
